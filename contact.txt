@@ -1,0 +1,8 @@
+alice | dupont | alice.dupont@gmail.com | 0654321987
+tomas | martin | tomas.martin@gmail.com | 0612345678
+nathalie | durand | nathalie.durand@gmail.com | 0623456789
+roberto | rossi | roberto.rossi@gmail.com | 0678123456
+julien | leroy | julien.leroy@gmail.com | 0611122233
+saber | aziat | aziatsaber73@gmail.com | 0711929885
+ilyes | ezzajli | ilyesezzajli@gmail.com | 0715829848
+adam | rayhi | adam@gmail.com | 0712345678
